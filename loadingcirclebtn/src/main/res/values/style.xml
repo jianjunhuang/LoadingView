@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="LoadingCircleBtn">
+        <attr name="text" format="string|reference" />
+        <attr name="radius" format="dimension|reference" />
+        <attr name="src" format="reference" />
+        <attr name="loadingSuccessTextColor" format="color|reference" />
+        <attr name="loadingFailedTextColor" format="color|reference" />
+        <attr name="loadingSuccessText" format="string|reference" />
+        <attr name="loadingFailedText" format="string|reference" />
+        <attr name="color" format="color|reference" />
+        <attr name="loadingColor" format="color|reference" />
+        <attr name="loadingSuccessColor" format="color|reference" />
+        <attr name="loadingFailedColor" format="color|reference" />
+        <attr name="loadingProgressColor" format="color|reference" />
+    </declare-styleable>
+
+</resources>
