@@ -4,6 +4,8 @@
     <declare-styleable name="LoadingCircleBtn">
         <attr name="text" format="string|reference" />
         <attr name="radius" format="dimension|reference" />
+        <attr name="loadingProgressGapAngle" format="float|reference" />
+        <attr name="loadingProgressWidth" format="dimension|reference" />
         <attr name="defaultDrawable" format="reference" />
         <attr name="successDrawable" format="reference" />
         <attr name="failedDrawable" format="reference" />

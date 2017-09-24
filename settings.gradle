@@ -1,1 +1,1 @@
-include ':app', ':loadingcirclebtn'
+include ':app', ':loadingcirclebtn', ':mvptools'
