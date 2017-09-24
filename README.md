@@ -1,6 +1,6 @@
 # LoadingView
 ## LoadingCircleBtn
-![默认样式](gif/loading_cirlce_btn.gif)
+![默认样式](gif/loading_circle_btn.gif)
 ### 参数
 懒得在布局上写 = =，凑合看一下吧
 ```
