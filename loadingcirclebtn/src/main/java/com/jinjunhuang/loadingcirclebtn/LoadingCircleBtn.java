@@ -290,4 +290,12 @@ public class LoadingCircleBtn extends View {
         this.scaleSize = scaleSize;
         invalidate();
     }
+
+    @Override
+    protected void onDetachedFromWindow() {
+        super.onDetachedFromWindow();
+        mFailedBmp.recycle();
+        mDefaultBmp.recycle();
+        mSuccessBmp.recycle();
+    }
 }
